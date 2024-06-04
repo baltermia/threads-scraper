@@ -2,17 +2,14 @@
 
 Script to download all pictures of a threads profile.
 
-## Prerequisites
+## Download
 
-Install dependencies:
-```
-pip install playwright nested_lookup jmespath "scrapfly-sdk[all]"
-```
+Be sure to clone the repository recusrively so the submodules get also cloned:
+git clone --recursive https://github.com/baltermia/threads-scraper
 
 ## How to Use
 
 Run it like this:
-
 ```
 py ./scraper.py @username
 ```

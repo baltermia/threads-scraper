@@ -1,0 +1,4 @@
+[submodule "Threads-Scraper"]
+	path = Threads-Scraper
+	url = https://github.com/Zeeshanahmad4/Threads-Scraper
+
