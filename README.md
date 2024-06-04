@@ -11,7 +11,7 @@ git clone --recursive https://github.com/baltermia/threads-scraper
 
 Run it like this:
 ```
-py ./scraper.py @username
+py ./src/scraper.py @username
 ```
 
 The image files should be located in the `./out` directory.
